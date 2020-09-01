@@ -102,7 +102,9 @@ alias zcf="vi ~/.zshrc"
 alias vcf="nvim ~/.config/nvim/init.vim"
 alias posting="~/coding/hugo-blog/post-write.sh"
 alias uploading="~/coding/hugo-blog/push.sh"
+alias drafting="~/coding/hugo-blog/draft.sh"
 alias blog="vi ~/coding/hugo-blog/"
-alias devset="vi ~/coding/dev-env/dev-env.bash"
+alias devcf="vi ~/coding/dev-env/dev-env.bash"
+alias ccoding="vi ~/coding/c"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
