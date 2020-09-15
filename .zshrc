@@ -106,5 +106,6 @@ alias drafting="~/coding/hugo-blog/draft.sh"
 alias blog="vi ~/coding/hugo-blog/"
 alias devcf="vi ~/coding/dev-env/dev-env.bash"
 alias ccoding="vi ~/coding/c"
+alias mvc="cd ~/coding/c"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
