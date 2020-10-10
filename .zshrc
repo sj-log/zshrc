@@ -103,9 +103,9 @@ alias vcf="nvim ~/.config/nvim/init.vim"
 alias posting="~/coding/hugo-blog/post-write.sh"
 alias publish="~/coding/hugo-blog/push.sh"
 alias draft="~/coding/hugo-blog/draft.sh"
-alias blog="vi ~/coding/hugo-blog/"
+alias blog="cd ~/coding/hugo-blog/"
 alias devcf="vi ~/coding/dev-env/dev-env.bash"
-alias ccoding="vi ~/coding/c"
+alias ccoding="cd ~/coding/c"
 alias mvc="cd ~/coding/c"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
